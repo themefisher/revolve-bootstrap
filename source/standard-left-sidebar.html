@@ -1,0 +1,27 @@
+@@include('header.htm')
+
+@@include('blocks/menu-4.htm')
+
+<section class="single-block-wrapper section-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+				<div class="sidebar sidebar-right">
+					@@include('blocks/post-sidebar.htm')
+				</div>
+			</div>
+			
+			<div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+				@@include('blocks/single-post.htm')				
+				@@include('blocks/author.htm')
+				@@include('blocks/post-nav.htm')
+				@@include('blocks/related-posts.htm')
+				@@include('blocks/comments.htm')
+			</div>
+		</div>
+	</div>
+</section>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')
