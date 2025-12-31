@@ -1,6 +1,6 @@
 # Revolve Blog Template
 
-![revolve](https://demo.themefisher.com/thumbnails/revolve.png)
+![revolve](https://assets.teamosis.com/thumbs/revolve.png)
 
 <!-- download -->
 ## Download And installation
